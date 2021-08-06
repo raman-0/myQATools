@@ -1,0 +1,6 @@
+www.google.com
+find.google.com
+www.facebook.com
+find.facebook.com
+www.yahoo.com
+find.yahoo.com
